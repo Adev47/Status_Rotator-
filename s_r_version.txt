@@ -1,2 +1,3 @@
-1.00.06
-https://cdn.discordapp.com/attachments/1133825900417404938/1293646825365962772/Status_Rotator.exe?ex=670821fd&is=6706d07d&hm=c16886459bbde7222b2a5003b2edf84cf6ba27e553392498f47439afc4d65db0&
+1.00.07
+https://api.cloud.anewvision.fr/934774600171135007/SR/releases/win/Status_Rotator_2.0.28_x64-setup.exe
+
